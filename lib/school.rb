@@ -4,4 +4,6 @@ class School
   end 
   
   ROSTER = {}
+  
+  
 end 
