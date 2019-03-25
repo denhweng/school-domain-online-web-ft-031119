@@ -10,4 +10,6 @@ class School
   
   def grade(students)
   end 
+  
+  
 end 
