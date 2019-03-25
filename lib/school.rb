@@ -12,7 +12,7 @@ class School
   end
   
   def grade(level)
-    roster.each do { |x| 
+    roster.each 
   end 
   
   
