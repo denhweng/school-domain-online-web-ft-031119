@@ -20,7 +20,7 @@ class School
   end 
   
   def sort
-    new_array = []
+    new_array = {}
     
   end
   
