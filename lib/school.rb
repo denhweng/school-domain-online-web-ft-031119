@@ -14,7 +14,8 @@ class School
   def grade(level)
     roster.each do |x, y|
       if x == level 
-        
+        return y 
+      end 
   end 
   
   
